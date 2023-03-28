@@ -1,0 +1,12 @@
+# Ignore Python virtual environment files
+venv/
+myenv/
+
+# Ignore Excel files
+*.xlsx
+
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+.idea/
